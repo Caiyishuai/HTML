@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+#TITLE{color:#30C; font-size:45px; font-family:"华文行楷";}
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color:#eee;
+	color:#333;
+}
+p{text-indent:2em;}
+.menu{color:#33F; background-color:#FC6; display:block; float:left; text-align:center; background:#6FC; width:200px; height:25px; font-size:18px; font-weight:bold }
+
+a:hover{background-color:#FF0;}
+.menu:hover{background-color:#FF0;}
+a{color:#900; text-decoration:blink;}
+li:hover{background-color:#FFF;}
+
+p:hover{background-color:#FFF;}
+#firstTable{font-size:28px; color:#000; text-align:center; font-family:"华文楷体";}
+#shibing{position:absolute;}
+#logo2{position:fixed; z-index:99;
+		left:1200px;
+		top:500px;}
+.clr{width:0px; height:0px;clear:both}
+
+
+#m1{position:relative;}
+#m1,#m1 ul{padding:0px;}
+#m1 ul{display:none;}
+#m1 li{width:150px; float:left; list-style:none; text-align:center; vertical-align:middle}
+
+ul ul{display:none}
+a:link {background:#6FC; color:#009; font-weight:bold }
+.picTitle{width:340px; background-color:#06F; color:#FFF; text-align:center; height:30px; margin-top:-30px; opacity:0.6}
+
+.xs_box{
+	margin:auto;
+}
